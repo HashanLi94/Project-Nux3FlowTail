@@ -1,0 +1,15 @@
+/* 
+    includes all the common css
+    Author: Hashan Liyanage
+    Added the nuxt tailwind constructors below
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
